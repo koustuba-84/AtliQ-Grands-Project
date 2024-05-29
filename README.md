@@ -60,8 +60,8 @@ This project is part of the Codebasics BootCamp. The knowledge and skills gained
 
 ## How to Use
 
-To view the Power BI reports, clone this repository and open the `.pbix` file using Power BI Desktop.
+To view the Power BI reports, (https://app.powerbi.com/view?r=eyJrIjoiYWViN2RmN2UtZmMxOC00OWY0LTg5ODUtZWZkMGQ1MGQ3Y2YwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection1fe7c9d4978331ee6005)
 
 ```sh
-git clone https://github.com/yourusername/AtliQ-Grands-Project.git
+git clone https://github.com/koustuba-84/AtliQ-Grands-Project.git
 
